@@ -1,4 +1,4 @@
-package list.pesquisa;
+package list.pesquisa.livros;
 
 public class TestePesquisaLivro {
     public static void main(String[] args) {

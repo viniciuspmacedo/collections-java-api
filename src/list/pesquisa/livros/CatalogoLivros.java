@@ -1,4 +1,4 @@
-package list.pesquisa;
+package list.pesquisa.livros;
 
 import java.util.ArrayList;
 import java.util.List;
